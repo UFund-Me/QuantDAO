@@ -1,5 +1,9 @@
+![image](https://github.com/UFund-Me/QuantDAO/assets/29084184/03982b01-e389-48d6-bd40-6c674d413153)
+
+
 # QuantDAO
-Autonomous Organization for Quantitative Trading
+
+Decentralized Autonomous Organization for Quantitative Trading
 
 [What is DAO and How Do They Work?](DAO.md)
 
